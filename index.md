@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hú, mi készül itt
 
 I'm glad you are here. I plan to talk about ...
